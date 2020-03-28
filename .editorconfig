@@ -1,5 +1,5 @@
 root = true
-
+# Babel settings
 [*]
 indent_style = space
 indent_size = 2
