@@ -3,24 +3,31 @@
 <p align="center">
 
 
-## :rocket: Tecnologias
+# :rocket: Tecnologias
 [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 | [Html](https://tableless.com.br/o-que-html-basico/)
 | [CSS](https://www.w3schools.com/css/)
 
 ## 💻 Projeto
 
-#### Ideas for what to do during quarantine or free time
+  #### Ideas for what to do during quarantine or free time
 
 
-## Instructions to use the project
+## :wrench: Instructions to use the project
 
-### Running the project
-
-    git clone git@github.com/brcaua/casacriativa.github.io.git
-    cd casacriativa.github.io
-    code .
-    
+  ### Running the project
+  Clonando o repositório (Cloning the repository)
+```sh
+  $ git clone git@github.com/brcaua/casacriativa.github.io.git
+```
+  Abrindo a pasta do projeto (Opening the project folder)
+```
+  $ cd casacriativa.github.io
+```
+  Iniciando o projeto no VSCode (Opening the project in VSCode)
+```
+  $ code .
+```
 
 ## :memo: Licença
 
