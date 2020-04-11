@@ -18,11 +18,11 @@
   ### Running the project
   Clonando o repositório (Cloning the repository)
 ```sh
-  $ git clone git@github.com/brcaua/casacriativa.github.io.git
+  $ git clone git@github.com/brcaua/1001ideias.git
 ```
   Abrindo a pasta do projeto (Opening the project folder)
 ```
-  $ cd casacriativa.github.io
+  $ cd 1001ideias
 ```
   Iniciando o projeto no VSCode (Opening the project in VSCode)
 ```
