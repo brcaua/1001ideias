@@ -1,34 +1,65 @@
-<h1 align="center">Casa Criativa</h1>
-<p align="center">O projeto foi desenvolvido durante o Workshop Especial ministrado pelo Instrutor Mayk Brito da Rocketseat</p>
+<h1 align="center"> Casa Criativa </h1>
+<p align="center">Ideas for what to do during quarantine or free time</p>
+<p align="center" aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
+    <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
+    <img src="https://img.shields.io/github/repo-size/brcaua/doesangue"></img>
+    <img src="https://img.shields.io/github/contributors/brcaua/doesangue"></img>
+</p>
+
+### ✨ Demo
 <p align="center">
+  <img src="https://github.com/brcaua/1001ideias/blob/master/img/fullpage.png">
+</p>
 
+## :gear: Prerequisites
 
-# :rocket: Tecnologias
-[Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- Você ter instalado a última versão do `node`
+- Você ter instalado o `yarn`
+- Você ter uma máquina `Windows/Linux/Mac`.
+- Você ter instalado o editor de código `VSCode` (preferencial).
+
+## :rocket: Tecnologias
+
+[Node.js](https://nodejs.org/en/)
+| [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 | [Html](https://tableless.com.br/o-que-html-basico/)
 | [CSS](https://www.w3schools.com/css/)
+| [Nodemon](https://nodemon.io/)
 
-## 💻 Projeto
+## :link: Install
 
-  #### Ideas for what to do during quarantine or free time
-
-
-## :wrench: Instructions to use the project
-
-  ### Running the project
-  Clonando o repositório (Cloning the repository)
+Clonando o projeto para um repositório local
 ```sh
-  $ git clone git@github.com/brcaua/1001ideias.git
+$ git clone git@github.com/brcaua/casa-criativa.git
 ```
-  Abrindo a pasta do projeto (Opening the project folder)
+Acessar a pasta do projeto
+```sh
+$ cd casa-criativa
 ```
-  $ cd 1001ideias
-```
-  Iniciando o projeto no VSCode (Opening the project in VSCode)
-```
-  $ code .
+Iniciando o servidor
+```sh
+$ yarn start
 ```
 
-## :memo: Licença
+Abrir com Visual Studio Code
+```sh
+$ code .
+```
 
-#### Esse projeto está sob a licença [MIT](./LICENSE)
+## Author
+👤 **Breno Cauã**
+* Twitter: [brcaua](https://twitter.com/brcaua)
+* GitHub: [brcaua](https://github.com/brcaua)
+* LinkedIn: [brenocaua](https://linkedin.com/in/brenocaua)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Esse projeto está sob a licença [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
